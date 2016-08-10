@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\UnityCam.cs">
+    <Files>
+      <File FileName="Assets\Script\UnityCam.cs" Line="165" Column="40" />
+      <File FileName="Assets\Scene\ThreadTest.cs" Line="19" Column="4" />
+      <File FileName="Assets\Script\ConstantVariable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ImageManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UIContentControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
